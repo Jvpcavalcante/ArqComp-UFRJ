@@ -1,0 +1,93 @@
+Executando comando de compilação: gcc -O0 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 1024 and flag -O0 1 times
+N = 1024
+Tempo gasto: 2.820049 segundos
+
+Executando comando de compilação: gcc -O1 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 1024 and flag -O1 1 times
+N = 1024
+Tempo gasto: 2.735452 segundos
+
+Executando comando de compilação: gcc -O2 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 1024 and flag -O2 1 times
+N = 1024
+Tempo gasto: 2.801637 segundos
+
+Executando comando de compilação: gcc -O3 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 1024 and flag -O3 1 times
+N = 1024
+Tempo gasto: 2.807352 segundos
+
+Executando comando de compilação: gcc -O0 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 2048 and flag -O0 1 times
+N = 2048
+Tempo gasto: 37.715440 segundos
+
+Executando comando de compilação: gcc -O1 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 2048 and flag -O1 1 times
+N = 2048
+Tempo gasto: 41.931224 segundos
+
+Executando comando de compilação: gcc -O2 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 2048 and flag -O2 1 times
+N = 2048
+Tempo gasto: 41.448161 segundos
+
+Executando comando de compilação: gcc -O3 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 2048 and flag -O3 1 times
+N = 2048
+Tempo gasto: 41.610258 segundos
+
+Executando comando de compilação: gcc -O0 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 4096 and flag -O0 1 times
+N = 4096
+Tempo gasto: 329.987180 segundos
+
+Executando comando de compilação: gcc -O1 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 4096 and flag -O1 1 times
+N = 4096
+Tempo gasto: 416.016611 segundos
+
+Executando comando de compilação: gcc -O2 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 4096 and flag -O2 1 times
+N = 4096
+Tempo gasto: 415.986461 segundos
+
+Executando comando de compilação: gcc -O3 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 4096 and flag -O3 1 times
+N = 4096
+Tempo gasto: 417.262938 segundos
+
+Executando comando de compilação: gcc -O0 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 8192 and flag -O0 1 times
+N = 8192
+Tempo gasto: 3148.764635 segundos
+
+Executando comando de compilação: gcc -O1 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 8192 and flag -O1 1 times
+N = 8192
+Tempo gasto: 3657.477920 segundos
+
+Executando comando de compilação: gcc -O2 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 8192 and flag -O2 1 times
+Tempo gasto: 3602.270560 segundos
+
+Executando comando de compilação: gcc -O3 dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 8192 and flag -O3 1 times
+Tempo gasto: 3588.802306 segundos

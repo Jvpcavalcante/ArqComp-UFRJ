@@ -1,0 +1,168 @@
+Executando comando de compilação: gcc -O3 -mavx512f dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 1024 and flag -O3 1 times
+N = 1024
+Tempo gasto: 0.831157 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 2 times
+N = 1024
+Tempo gasto: 0.860134 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 3 times
+N = 1024
+Tempo gasto: 0.833903 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 4 times
+N = 1024
+Tempo gasto: 0.851794 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 5 times
+N = 1024
+Tempo gasto: 0.844435 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 6 times
+N = 1024
+Tempo gasto: 0.847082 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 7 times
+N = 1024
+Tempo gasto: 0.831286 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 8 times
+N = 1024
+Tempo gasto: 0.843210 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 9 times
+N = 1024
+Tempo gasto: 0.844438 segundos
+
+Running dgemm with matrix size 1024 and flag -O3 10 times
+N = 1024
+Tempo gasto: 0.824711 segundos
+
+Executando comando de compilação: gcc -O3 -mavx512f dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 2048 and flag -O3 1 times
+N = 2048
+Tempo gasto: 10.011694 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 2 times
+N = 2048
+Tempo gasto: 10.003887 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 3 times
+N = 2048
+Tempo gasto: 10.014848 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 4 times
+N = 2048
+Tempo gasto: 10.045338 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 5 times
+N = 2048
+Tempo gasto: 10.046441 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 6 times
+N = 2048
+Tempo gasto: 10.060600 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 7 times
+N = 2048
+Tempo gasto: 9.968516 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 8 times
+N = 2048
+Tempo gasto: 9.948516 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 9 times
+N = 2048
+Tempo gasto: 9.918396 segundos
+
+Running dgemm with matrix size 2048 and flag -O3 10 times
+N = 2048
+Tempo gasto: 9.940075 segundos
+
+Executando comando de compilação: gcc -O3 -mavx512f dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 4096 and flag -O3 1 times
+N = 4096
+Tempo gasto: 98.824206 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 2 times
+N = 4096
+Tempo gasto: 98.613592 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 3 times
+N = 4096
+Tempo gasto: 98.335755 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 4 times
+N = 4096
+Tempo gasto: 98.731549 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 5 times
+N = 4096
+Tempo gasto: 98.692257 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 6 times
+N = 4096
+Tempo gasto: 98.786686 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 7 times
+N = 4096
+Tempo gasto: 99.013533 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 8 times
+N = 4096
+Tempo gasto: 98.974227 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 9 times
+N = 4096
+Tempo gasto: 99.007639 segundos
+
+Running dgemm with matrix size 4096 and flag -O3 10 times
+N = 4096
+Tempo gasto: 98.804980 segundos
+
+Executando comando de compilação: gcc -O3 -mavx512f dgemm.c -o dgemm
+Compilação bem-sucedida!
+Running dgemm with matrix size 8192 and flag -O3 1 times
+N = 8192
+Tempo gasto: 871.744261 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 2 times
+N = 8192
+Tempo gasto: 874.605287 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 3 times
+N = 8192
+Tempo gasto: 881.630192 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 4 times
+N = 8192
+Tempo gasto: 889.369718 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 5 times
+N = 8192
+Tempo gasto: 882.458708 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 6 times
+N = 8192
+Tempo gasto: 885.927314 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 7 times
+N = 8192
+Tempo gasto: 872.831973 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 8 times
+N = 8192
+Tempo gasto: 874.929758 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 9 times
+N = 8192
+Tempo gasto: 874.932922 segundos
+
+Running dgemm with matrix size 8192 and flag -O3 10 times
+N = 8192
+Tempo gasto: 879.177721 segundos
+
